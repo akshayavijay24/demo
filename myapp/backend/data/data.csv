@@ -1,0 +1,10 @@
+id,name,contract_name,start_date,end_date,scope_of_work,deliverables,rate_card,msa_status,people_requested,people_assigned,quality_score
+1,TechCorp Solutions,Backend Development Contract,2024-01-15,2024-12-31,API development and database management,"REST APIs;Database Schema;Documentation",$150/hour,Active,15,12,87
+2,TechCorp Solutions,Frontend Support Contract,2024-03-01,2024-08-31,React development and UI/UX improvements,"Component Library;Responsive Design;Testing",$120/hour,Active,15,12,87
+3,Digital Innovations Ltd,Mobile App Development,2024-02-01,2024-10-15,Cross-platform mobile application,"iOS App;Android App;Backend Integration",$180/hour,Pending,8,6,92
+4,CloudNova Technologies,Cloud Migration Project,2024-04-01,2024-09-30,Migrate legacy apps to AWS,"Migration Plan;AWS Setup;Monitoring Tools",$160/hour,Active,10,10,95
+5,NextGen Analytics,Data Analytics Implementation,2023-01-01,2023-12-31,Implement data warehouse and analytics dashboard,"ETL Pipeline;Dashboards;User Training",$140/hour,Expired,6,4,76
+6,SecureLink Systems,Cybersecurity Review,2024-05-01,2024-11-30,Assess and improve security posture,"Vulnerability Report;Recommendations;Patching Plan",$200/hour,Inactive,12,10,88
+7,Greenbyte Technologies,Sustainability Tracker Build,2024-06-01,2024-12-01,Build a sustainability tracking platform,"UI Design;Tracker Module;Reporting Tools",$145/hour,Active,9,7,91
+8,InnovateEdge Solutions,AI Chatbot Integration,2024-07-10,2024-12-10,Integrate AI-based customer support chatbot,"Chatbot UI;Training Dataset;Bot Deployment",$170/hour,Pending,7,5,84
+9,QuantumLeap Systems,Quantum-Safe Encryption POC,2024-03-01,2024-08-30,Research and develop post-quantum encryption prototype,"Prototype;Whitepaper;Security Review",$250/hour,Active,11,11,96

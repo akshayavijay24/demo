@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "name": "TechCorp Solutions",
+    "msa_status": "Active",
+    "performance_metrics": {
+      "people_requested": 15,
+      "people_assigned": 12,
+      "quality_score": 87
+    },
+    "contracts": [
+      {
+        "name": "Backend Development Contract",
+        "start_date": "2024-01-15",
+        "end_date": "2024-12-31",
+        "scope_of_work": "API development and database management",
+        "deliverables": ["REST APIs", "Database Schema", "Documentation"],
+        "rate_card": "$150/hour"
+      },
+      {
+        "name": "Frontend Support Contract",
+        "start_date": "2024-03-01",
+        "end_date": "2024-08-31",
+        "scope_of_work": "React development and UI/UX improvements",
+        "deliverables": ["Component Library", "Responsive Design", "Testing"],
+        "rate_card": "$120/hour"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Digital Innovations Ltd",
+    "msa_status": "Pending",
+    "performance_metrics": {
+      "people_requested": 8,
+      "people_assigned": 6,
+      "quality_score": 92
+    },
+    "contracts": [
+      {
+        "name": "Mobile App Development",
+        "start_date": "2024-02-01",
+        "end_date": "2024-10-15",
+        "scope_of_work": "Cross-platform mobile application",
+        "deliverables": ["iOS App", "Android App", "Backend Integration"],
+        "rate_card": "$180/hour"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "CloudNova Technologies",
+    "msa_status": "Active",
+    "performance_metrics": {
+      "people_requested": 10,
+      "people_assigned": 10,
+      "quality_score": 95
+    },
+    "contracts": [
+      {
+        "name": "Cloud Migration Project",
+        "start_date": "2024-04-01",
+        "end_date": "2024-09-30",
+        "scope_of_work": "Migrate legacy apps to AWS",
+        "deliverables": ["Migration Plan", "AWS Setup", "Monitoring Tools"],
+        "rate_card": "$160/hour"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "NextGen Analytics",
+    "msa_status": "Expired",
+    "performance_metrics": {
+      "people_requested": 6,
+      "people_assigned": 4,
+      "quality_score": 76
+    },
+    "contracts": [
+      {
+        "name": "Data Analytics Implementation",
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "scope_of_work": "Implement data warehouse and analytics dashboard",
+        "deliverables": ["ETL Pipeline", "Dashboards", "User Training"],
+        "rate_card": "$140/hour"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "SecureLink Systems",
+    "msa_status": "Inactive",
+    "performance_metrics": {
+      "people_requested": 12,
+      "people_assigned": 10,
+      "quality_score": 88
+    },
+    "contracts": [
+      {
+        "name": "Cybersecurity Review",
+        "start_date": "2024-05-01",
+        "end_date": "2024-11-30",
+        "scope_of_work": "Assess and improve security posture",
+        "deliverables": [
+          "Vulnerability Report",
+          "Recommendations",
+          "Patching Plan"
+        ],
+        "rate_card": "$200/hour"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Greenbyte Technologies",
+    "msa_status": "Active",
+    "performance_metrics": {
+      "people_requested": 9,
+      "people_assigned": 7,
+      "quality_score": 91
+    },
+    "contracts": [
+      {
+        "name": "Sustainability Tracker Build",
+        "start_date": "2024-06-01",
+        "end_date": "2024-12-01",
+        "scope_of_work": "Build a sustainability tracking platform",
+        "deliverables": ["UI Design", "Tracker Module", "Reporting Tools"],
+        "rate_card": "$145/hour"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "InnovateEdge Solutions",
+    "msa_status": "Pending",
+    "performance_metrics": {
+      "people_requested": 7,
+      "people_assigned": 5,
+      "quality_score": 84
+    },
+    "contracts": [
+      {
+        "name": "AI Chatbot Integration",
+        "start_date": "2024-07-10",
+        "end_date": "2024-12-10",
+        "scope_of_work": "Integrate AI-based customer support chatbot",
+        "deliverables": ["Chatbot UI", "Training Dataset", "Bot Deployment"],
+        "rate_card": "$170/hour"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "QuantumLeap Systems",
+    "msa_status": "Active",
+    "performance_metrics": {
+      "people_requested": 11,
+      "people_assigned": 11,
+      "quality_score": 96
+    },
+    "contracts": [
+      {
+        "name": "Quantum-Safe Encryption POC",
+        "start_date": "2024-03-01",
+        "end_date": "2024-08-30",
+        "scope_of_work": "Research and develop post-quantum encryption prototype",
+        "deliverables": ["Prototype", "Whitepaper", "Security Review"],
+        "rate_card": "$250/hour"
+      }
+    ]
+  }
+]
